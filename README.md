@@ -1,7 +1,7 @@
 # MuchException
 ## Error handling for good bois
 
-![error image](https://github.com/jpsheehan/MuchException/raw/master/MuchException/image.png)
+![error image](https://github.com/jpsheehan/MuchException/raw/master/image.png)
 
 ### Installing:
 
